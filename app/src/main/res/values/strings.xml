@@ -1,3 +1,41 @@
 <resources>
     <string name="app_name">QuizApp</string>
+
+
+
+    <string name="answer_five">Saturn </string>
+    <string name="are_you_male_or_female">Are you male or female?</string>
+
+    <string name="question_one"> 1.How many planets are in the universe?</string>
+    <string name="question_two">2.Is Earth the third planet from the Sun?</string>
+    <string name="question_three">3.How far is the Earth from the moon?</string>
+    <string name="question_four">4.Which Planet is has most moons in the solar system compared to the rest? </string>
+    <string name="question_five">5.Which Planet a ring rings around it ?</string>
+    <string name="question_six"> 6.Which Planet is has almost the same whether compared to Earth?</string>
+    ...
+
+    <string name="i_am_21">How many teams participated in World cup 2018 from Africa?</string>
+    <string name="i_was_born_in_the_usa">Who is the host of WorldCup this year?</string>
+    <string name="quizes">Questions</string>
+
+
+    <string-array name="questions">
+        <item>@string/i_am_21</item>
+        <item>@string/i_am_21</item>
+        <item>@string/i_am_21</item>
+        <item>@string/i_am_21</item>
+        <item>@string/i_am_21</item>
+        <item>@string/i_am_21</item>
+
+
+
+
+    </string-array>
+
+    <string-array name="answers">
+        <item>@string/i_am_21</item>
+        <item>@string/i_was_born_in_the_usa</item>
+
+    </string-array>
+
 </resources>
