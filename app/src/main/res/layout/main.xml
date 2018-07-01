@@ -372,6 +372,15 @@
         </RadioGroup>
 
     </LinearLayout>
+
+    <TextView
+        android:layout_marginBottom="15dp"
+        android:layout_width="fill_parent"
+        android:layout_marginRight="24dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginTop="15dp"
+        android:layout_height="3dp"
+        android:background="@android:color/darker_gray" />
     <LinearLayout
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"

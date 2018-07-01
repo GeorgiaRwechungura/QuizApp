@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
      //A method to submit answers and to display results
 
     public void Submit(View view) {
-        //Checking for questions that are submitted
+
 
 
         //Count for question one
@@ -43,6 +43,8 @@ public class MainActivity extends AppCompatActivity {
 
     public int onRadioButtonClickedQuestionOne(int marksOne) {
         marksOne = 0;
+
+
         RadioGroup radioGroup = (RadioGroup) findViewById(R.id.radioGroupOne);
 
         int radioButtonID = radioGroup.getCheckedRadioButtonId();
